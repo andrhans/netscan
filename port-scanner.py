@@ -10,7 +10,8 @@ print(welcome_banner)
 if len(sys.argv) == 2:
     target=socket.gethostbyname(sys.argv[1])
 else:
-    print("Missing arguments! Did you forget the IP address?")
+    print("Missing argument! Did you forget the IP address? \n\nTry again adding the IP address of the desired host")
+    sys.exit()
 
 print("*" * 50)
 print("Scan started...")
