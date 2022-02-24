@@ -1,2 +1,4 @@
 # Port Scanner 
- This is a port scanner written in python
+
+ This is a simple port scanner written in python following a lecture. 
+
