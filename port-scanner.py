@@ -42,4 +42,3 @@ except socket.gaierror:
 except socket.error:
     print("\nSpecified host not responding...")
     sys.exit()
-
