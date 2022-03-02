@@ -1,8 +1,14 @@
-# Port Scanner 
+# Network Scanners
+Files in the repository:
+* [port-scanner.py](#port-scanner)
 
- This is a simple port scanner written in python following a lecture. 
+## Port Scanner
+`file:port-scanner.py`
+This is a simple port scanner written in python following a lecture. 
 
-## Usage
+Further versions will come...
+
+### Usage
 
 Example usage having an HTTP server open locally.
 
@@ -22,3 +28,5 @@ Scanning host: 127.0.0.1
 **************************************************
 Port 80 open
 ```
+
+### 
