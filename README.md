@@ -1,4 +1,4 @@
-# Network Scanners
+# netscan
 Files in the repository:
 * [port-scanner.py](#port-scanner)
 
